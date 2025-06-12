@@ -38,6 +38,6 @@ Please feel free to modify the code and create your own submissions!
 
 ---
 
-You can replace `your-username` with your actual GitHub username. This is just a sample README
+You can replace `VanshSharma5` with your actual GitHub username. This is just a sample README
 description, you can customize it according to your needs and project requirements.
 
